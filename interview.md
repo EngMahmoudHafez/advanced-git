@@ -59,3 +59,11 @@ The concept of abstract class in PHP is very similar to interface. However, ther
 | Abstract class may have normal and abstract methods                                 | Interface must declare the methods with arguments and return types only and not with any body.                    |
 | Abstract class is extended by child class which must implement all abstract methods | Interface must be implemented by another class, which must provide functionality of all methods in the interface. |
 | Can have public, private or protected properties                                    | Properties cannot be declared in interface                                                                        |
+
+
+
+https://medium.com/@mr-osama-mustafa/50-php-laravel-interview-questions-and-answers-ddfa49ed546d
+https://www.fullstack.cafe/blog/php-interview-questions
+https://medium.com/@mr-osama-mustafa/50-php-laravel-interview-questions-and-answers-ddfa49ed546d
+https://www.tutorialspoint.com/php
+https://www.datacamp.com/blog/top-sql-interview-questions-and-answers-for-beginners-and-intermediate-practitioners
