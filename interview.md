@@ -63,7 +63,15 @@ The concept of abstract class in PHP is very similar to interface. However, ther
 
 
 https://medium.com/@mr-osama-mustafa/50-php-laravel-interview-questions-and-answers-ddfa49ed546d
+
+
 https://www.fullstack.cafe/blog/php-interview-questions
+
+
 https://medium.com/@mr-osama-mustafa/50-php-laravel-interview-questions-and-answers-ddfa49ed546d
+
+
 https://www.tutorialspoint.com/php
+
+
 https://www.datacamp.com/blog/top-sql-interview-questions-and-answers-for-beginners-and-intermediate-practitioners
