@@ -1,5 +1,5 @@
 # way to add recaptcha without pakage 
-
+this link https://www.google.com/recaptcha/admin#list
 ### in env 
 ```php
 
